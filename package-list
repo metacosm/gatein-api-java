@@ -1,0 +1,7 @@
+org.gatein.api
+org.gatein.api.commons
+org.gatein.api.exception
+org.gatein.api.i18n
+org.gatein.api.portal
+org.gatein.api.security
+org.gatein.api.util

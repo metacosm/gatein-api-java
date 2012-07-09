@@ -1,0 +1,28 @@
+-classpath
+'/Users/julien/java/gatein-api-java/api/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/julien/java/gatein-api-java/api/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2012 <a href="http://www.jboss.org">JBoss, a division of Red Hat, Inc.</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/julien/java/gatein-api-java/api/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Unnamed - org.gatein.api:gatein-java-api:jar:1.0.0.Beta04-SNAPSHOT 1.0.0.Beta04-SNAPSHOT API'
+-footer
+'<b>Unnamed - org.gatein.api:gatein-java-api:jar:1.0.0.Beta04-SNAPSHOT 1.0.0.Beta04-SNAPSHOT</b>'
+-header
+'<b>Unnamed - org.gatein.api:gatein-java-api:jar:1.0.0.Beta04-SNAPSHOT 1.0.0.Beta04-SNAPSHOT</b>'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/julien/java/gatein-api-java/api/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Unnamed - org.gatein.api:gatein-java-api:jar:1.0.0.Beta04-SNAPSHOT 1.0.0.Beta04-SNAPSHOT API'
